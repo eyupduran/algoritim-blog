@@ -1,1 +1,3 @@
-# Getting Started With Hugo (Free Static Website Framework)
+### Blog Site link 
+<https://algoritimblog.netlify.app/>
+
