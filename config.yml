@@ -1,0 +1,63 @@
+baseURL: ""
+languageCode: en-us
+title: Algoritim-Blog
+theme: PaperMod
+ShowToc: true
+TocOpen: true
+
+params:
+  comments: true  
+  homeInfoParams:
+    Title: "Merhaba,Blog sayfama Hoşgeldiniz..."
+    Content: Ben Eyüp.Burada yazılım ve teknoloji hakkında blog yazılarımı yayınlıyor olacağım.Takipte kalın:)
+  
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/drn.eyp/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ey%C3%BCp-duran//"
+    - name: twitter
+      url: "https://twitter.com/drn_eyp0/"
+    - name: github
+      url: "https://github.com/eyupduran"
+    - name: gitlab
+      url: "https://gitlab.com/eyupduran"
+    - name: hackerrank
+      url: "https://www.hackerrank.com/eyupduran19"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+  ShowCodeCopyButtons: true
+
+  
+  
+menu:
+  main:
+    - identifier: categories
+      name: All My Posts
+      url: /categories/
+      weight: 10
+
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+      
+    - identifier: archives
+      name: Post Archives
+      url: /archives/
+      weight: 30
+
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 40

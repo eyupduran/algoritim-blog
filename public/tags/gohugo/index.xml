@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gohugo on Algoritim-Blog</title>
+    <link>/tags/gohugo/</link>
+    <description>Recent content in gohugo on Algoritim-Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jun 2022 11:30:04 +0300</lastBuildDate><atom:link href="/tags/gohugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Hugo</title>
+      <link>/posts/gohugo/</link>
+      <pubDate>Wed, 29 Jun 2022 11:30:04 +0300</pubDate>
+      
+      <guid>/posts/gohugo/</guid>
+      <description>Go hugo static site generator olarak da adlandırabileceğimiz HUGO adındaki Go programlama dili ile geliştirilen framework. Hugo ile oluşturacağınız web sitesi sadece github üzerinde host edilmemekle birlikte Netlify, Heroku, GoDaddy, DreamHost, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, CloudFront gibi barındırıcıların tamamında host edilebilir.
+Hugo neden ve ne için kullanılabilir? İlk sorunun cevabı: kullanımı oldukça basit. Yazınızı herhangi bir editör yardımı ile yazıp kolayca deploy edebiliyorsunuz.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yazılım on Algoritim-Blog</title>
+    <link>/categories/yaz%C4%B1l%C4%B1m/</link>
+    <description>Recent content in yazılım on Algoritim-Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2022 12:12:26 +0300</lastBuildDate><atom:link href="/categories/yaz%C4%B1l%C4%B1m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Container ve Sanal Makine</title>
+      <link>/posts/container/</link>
+      <pubDate>Thu, 30 Jun 2022 12:12:26 +0300</pubDate>
+      
+      <guid>/posts/container/</guid>
+      <description>Virtual Makine-Container Nedir ve Arasındaki Farklar Nelerdir? Hem VM&amp;rsquo;ler hem de containerlar, mevcut bilgisayar donanım ve yazılım kaynaklarını en üst düzeye çıkarmanıza yardımcı olmak için sanallaştırmayı kullanır. Konteynerler bir süredir piyasada ancak son birkaç yılda geniş çapta benimsenmeleri, BT uygulamalarını temelden değiştirdi. VM&amp;rsquo;ler ise bir süredir çok popüler ve her boyuttaki veri merkezinde yer almaya devam ediyor. Bulutta hizmet ve uygulama çalıştırma dahil mimari kararlara yaklaşırken, bu sanallaştırma teknolojilerini anlamanız gerekir.</description>
+    </item>
+    
+    <item>
+      <title>Go Hugo</title>
+      <link>/posts/gohugo/</link>
+      <pubDate>Wed, 29 Jun 2022 11:30:04 +0300</pubDate>
+      
+      <guid>/posts/gohugo/</guid>
+      <description>Go hugo static site generator olarak da adlandırabileceğimiz HUGO adındaki Go programlama dili ile geliştirilen framework. Hugo ile oluşturacağınız web sitesi sadece github üzerinde host edilmemekle birlikte Netlify, Heroku, GoDaddy, DreamHost, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, CloudFront gibi barındırıcıların tamamında host edilebilir.
+Hugo neden ve ne için kullanılabilir? İlk sorunun cevabı: kullanımı oldukça basit. Yazınızı herhangi bir editör yardımı ile yazıp kolayca deploy edebiliyorsunuz.</description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>/posts/golang/</link>
+      <pubDate>Tue, 28 Jun 2022 11:30:04 +0300</pubDate>
+      
+      <guid>/posts/golang/</guid>
+      <description>Golang, İlk olarak Google&amp;rsquo;ın kendi içerisinde barındırdığı sistemleri daha hızlı, güvenli ve verimli hale getirmek amacıyla Rob Pike, Robert Griesemer ve Ken Thompson tarafından tasarlanan, açık kaynak ve statik tipli yazılan bir programlama dilidir.
+Go, 2007 yılında bu 3 başarılı mühendis tarafından tasarlanmaya başlandı ve 2009 yılında ilk versiyonu piyasaya sürüldü.
+Google&amp;rsquo;ın hedefi diğer dillerdeki en iyi yönleri alıp, sorunlu yanlarını çözümleyip tek dilde birleştirmekti ve kısmen bunu başardı.
+Bir çok şirket alt sistemleri için Go&amp;rsquo;yu tercih ediyor fakat bu Go&amp;rsquo;nun sadece alt sistemler için kullanıldığı anlamına gelmiyor.</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/posts/markdown/</link>
+      <pubDate>Tue, 28 Jun 2022 11:30:04 +0300</pubDate>
+      
+      <guid>/posts/markdown/</guid>
+      <description>Markdown, John Gruber ve Aaron Swartz tarafından geliştirilen ve 2004 yılından bu yana kullanılan metinden HTML&amp;rsquo;e (text-to-HTML) dönüşüm için kullanılan hafif bir işaretleme dilidir.
+GitHub gibi platformları kullananların aşina olduğu Markdown formatı, yaygın kanının aksine sadece README dosyaları oluşturmak kullanılmaz. Temel amaç okunabilirliği ve kullanılabilirliği arttırmaktır. Basitliği ve sadeliği sayesinde forumlarda ileti yazmaktan, kitap yazmaya kadar pek çok yerde kullanılabilir. Asıl güçlü olduğu kısım klavyeden elinizi kaldırmadan tablolardan, matematiksel ifadelere kadar ihtiyaç duyduğunuz her şeyi oluşturabilmeniz ve sonrasında biçimlendirebilmenizdir.</description>
+    </item>
+    
+  </channel>
+</rss>
