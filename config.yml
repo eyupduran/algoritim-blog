@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://algoritimblog.netlify.app"
 languageCode: en-us
 title: Algoritim-Blog
 theme: PaperMod
