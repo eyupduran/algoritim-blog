@@ -1,3 +1,3 @@
-### Blog Site link 
+### Blog Site Link 
 <https://algoritimblog.netlify.app/>
 
